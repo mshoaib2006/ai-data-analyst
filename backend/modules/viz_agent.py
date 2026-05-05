@@ -1,4 +1,3 @@
-# backend/modules/viz_agent.py
 import os
 import re
 import uuid
