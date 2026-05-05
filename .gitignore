@@ -1,46 +1,17 @@
-# Python cache
-__pycache__/
-*.pyc
-
-# Virtual environment
-venv/
-.env
-
-# Generated outputs
-backend/charts/
-backend/reports/
-screenshots/
-
-# IDE files
-.vscode/
-.idea/# Python cache
-__pycache__/
-*.pyc
-
-# Virtual environment
-venv/
-.env
-
-# Generated outputs
-backend/charts/
-backend/reports/
-screenshots/
-
-# IDE files
-.vscode/
-.idea/# Python cache
 __pycache__/
 *.pyc
 *.pyo
 
-# Virtual environment
 venv/
+env/
 .env
 
-# Generated outputs (IMPORTANT)
 backend/charts/
 backend/reports/
+screenshots/
 
-# IDE files
 .vscode/
 .idea/
+
+.DS_Store
+Thumbs.db
