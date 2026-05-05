@@ -1,5 +1,3 @@
-# backend/modules/text_agent.py
-
 import json
 from typing import Any
 
