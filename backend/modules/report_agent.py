@@ -1,5 +1,3 @@
-# backend/modules/report_agent.py
-
 import os
 import re
 import uuid
