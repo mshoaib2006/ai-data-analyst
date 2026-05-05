@@ -1,5 +1,3 @@
-# backend/routes/upload.py
-
 import pandas as pd
 from fastapi import APIRouter, UploadFile, File, HTTPException
 
