@@ -1,5 +1,3 @@
-# frontend/app.py
-
 import html
 import os
 import re
