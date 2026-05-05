@@ -1,5 +1,3 @@
-# backend/routes/ask.py
-
 import os
 from fastapi import APIRouter, HTTPException
 
