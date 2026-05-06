@@ -28,17 +28,59 @@ The system works like a smart data analyst that reads the dataset profile and gi
 
 
 
-##  Screenshots
+##  Project Screenshots
 
+Below are the working screenshots of the **AI Data Analyst** application.
 
+---
 
-```markdown
-![Upload Screen](screenshots/1.png)
-![AI Analysis](screenshots/chat_analysis.png)
-![Chart Output](screenshots/chart_output.png)
-![PDF Report](screenshots/pdf_report.png)
-```
+### 1. Initial Upload Screen
+![Screenshots Folder](screenshots/1.png)
 
+---
+
+### 2. Dataset Uploaded Successfully And  AI Dataset Summary 
+![Initial Upload Screen](screenshots/2.png)
+
+---
+
+### 3. Missing Values Analysis
+![Dataset Uploaded](screenshots/3.png)
+
+---
+
+### 4. Target Column Distribution Chart
+![AI Dataset Summary](screenshots/4.png)
+
+---
+
+### 5. Important Columns Analysis
+![Missing Values Analysis](screenshots/5.png)
+
+---
+
+### 6. . All Dataset Columns
+![Target Column Distribution](screenshots/6.png)
+
+---
+
+### 7. Titanic dataset uploaded and summarized
+![Important Columns](screenshots/7.png)
+
+---
+
+### 8. Download Generated PDF Report
+![All Columns](screenshots/8.png)
+
+---
+
+### 9.Generated PDF Report for Titanic Dataset
+![Titanic Dataset Analysis](screenshots/9.png)
+
+---
+
+### 10.Generated PDF Report for Titanic Dataset
+![PDF Report Preview](screenshots/10.png)
 
 
 
@@ -137,7 +179,7 @@ A clean and simple chat-style interface where users can:
 
 ---
 
-## 🔄 System Workflow
+##  System Workflow
 
 ```text
 User Uploads CSV
@@ -163,7 +205,7 @@ Response returned to Streamlit UI
 
 ---
 
-## 🧠 AI Agent Architecture
+##  AI Agent Architecture
 
 The backend is divided into multiple agents:
 
@@ -279,7 +321,7 @@ It is useful for:
 
 ##  Author
 
-Developed by **Your Name**
+Developed by **Muhammad Shoaib**
 
 ```text
 AI Data Analyst System
